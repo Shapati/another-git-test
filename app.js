@@ -15,3 +15,4 @@ const sumArray = ([...arr]) => {
 
 console.log(sumArray([1,2,3,4,9]));
 
+aa
